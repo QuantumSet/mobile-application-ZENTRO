@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "linen-tracer-296421",
+  "private_key_id": "33050397cd446b8376d18227b8652619ffa6782e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvynT3sTRe5jv4\ngELTvHVIIkZQF0nItnyl//X/LnUYwVlrp772ruxGp8LjIXMvAHxcdv4HZVl/LNLn\nWFjzrBjIlGkvsdsJ0SzWCcUBBBPQ9sMG5Zo4C4wmGBAjErNUsdjouP8l7CF6FR8q\n84pTD/qkHfoiIz6eZ9yQY/UTatyv7KqjQUtE2JompR/CJ5AOcmn5eV71OOMHrxMf\nYnmYwe1onTqJuPZlNgaMswMi8QWchTs0xkSGW4vf1XM/kUve2QLB4J0kaOq3JqfX\nPWAlyYbXSG66NDiRnuPdQtUWRxVO0M3MRg0XSjRJ5ypb1Z0BstzOdNEYfZK1ykv9\nDuFsuFpDAgMBAAECggEAGFc1s/hO8pb5ldKYrj3JlYfdaYiX+FlAUDHta3yQzTE0\ngwISoJCe+beP9igzDT6JebomOXrwlfnsaAklI/Rf6CIYoHiFhkn25dorc5UPc18/\nqOxQ2tLKgJnTXi/gMemASdUXyzXzeraC/s0DCbZMM75M3L45lPB3q2yTyjEBRsCJ\nIPoYd/KQW68Di1V/sUC5h6+9+5UI1pZnl9GHkSIOplYTGzgHRDRx7oo7wsRy+tsV\nEYer7HkWYHfgFpUueBQhpmD5NXIZJ7z46Ttj7eM5Tx12zSuKiyEeaRTazoPj4Rpz\nDzA/1drWOvQiTgXCWp/3Hv4Dkt7T9lF7bitRbevMZQKBgQDdZLrCj7VukG9M62OC\nbsVE2r/EwullNUPljJuuxxcX4xPC91hxD7wRQcO8NfoZ466AOjBDjofMcpwOmg6s\ngRWsJDuZni5lUHwJkzP4wYRCuVTnTn6XT3wswuTyornCtbdaxzVxqKHnj2TR4nRA\nUDuh88Vl11TwOCggk2TU8lKWzwKBgQDLROUVnrHWn2Hlj6iztVvY5Yimz8/Ez7CA\nUuOylMx7UfmmQKkJlIH69qn7iCzTK4AVKn7Ubtzg06o/1RvK0V5Z1ODKTP58Q+vP\nOFW1ub7OqlXRdN5N1XZqefrsf4WjXbhikaUxguwPWPWqIFEPRYkt4N+sAHlO/xSy\n621vTu6iTQKBgQC5sXg4IoNiBkFkefbP+wr5EqVQas+KdR/K1KHr+c8z2OHFYONM\niY8LxmZfYcKxnlfJ84Rx1YWvhN3CHZN7OxYreYSH97Yggl5XRaGM3vuJX5uIGz1w\nulmDzcBshvJaD0KIIJiCCZgq+gntRQyOuP0bfLSwE+mJRwDZOeeT+OAu3wKBgFep\n1sKENl5BTo8abb9TL9FS7KREa26Nw6kUFm8mDSoCKJCywjQHgCcjyhtYlzxbPlni\ngeBMD6ZGot30oo/Ny8siK/ATVI1zHXe46/37pXarr2ct59HZhcBV6wmj1ZanDKY1\n+fBobjYQP6KnXU4gxxCqMsyTR73x9JNVRVUDzZbhAoGAAy87Jb/hKqua8hwRRpLq\nfQLbRgXvU2AzTZ2OloeyL85xDqy+XrS+oe33JlHZMHseO+/PdmUSfqhYsJkr72rZ\nqT5UWMwGqnWE+12iJXHLZePCUExCCsfHwfzMHCztRd7fvNFq3bO6ruCGre8tDlU/\nbvQf2oDZS2wuZ1CnSpBJXcU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowchatbot@linen-tracer-296421.iam.gserviceaccount.com",
+  "client_id": "111667514722557660938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowchatbot%40linen-tracer-296421.iam.gserviceaccount.com"
+}
